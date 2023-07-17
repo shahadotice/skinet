@@ -46,6 +46,7 @@ using (var scope = app.Services.CreateScope())
     {
        var context = services.GetRequiredService<StoreContext>();
        await context.Database.MigrateAsync();
+       await StoreContextSeed.SeedAsync(context,loggerFacrory);
     }
     catch(Exception ex)
     {
