@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\._products",
+      "PackagePath": "staticwebassets\\images\\._products"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._boot-ang1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._boot-ang2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._boot-core1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._boot-core2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._boot-redis1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._glove-code1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._glove-code2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._glove-react1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._glove-react2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._hat-core1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._hat-react1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._hat-react2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._sb-ang1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._sb-ang2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._sb-core1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\._sb-core2.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._sb-react1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\._sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

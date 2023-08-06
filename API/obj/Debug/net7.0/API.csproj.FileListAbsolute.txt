@@ -72,3 +72,4 @@ E:\skinet\API\bin\Debug\net7.0\Infrastructure.pdb
 E:\skinet\API\bin\Debug\net7.0\Core.pdb
 E:\skinet\API\bin\Debug\net7.0\AutoMapper.dll
 E:\skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
