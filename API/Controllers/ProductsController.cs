@@ -1,5 +1,6 @@
 
 using API.Dtos;
+using API.Errors;
 using AutoMapper;
 using Core.Entities;
 using Core.Interfaces;
@@ -11,9 +12,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class ProductsController : ControllerBase
+
+    public class ProductsController : BaseApiController
     {
        
         
@@ -49,6 +49,8 @@ namespace API.Controllers
               var spec =new ProductsWithTypesAndBrandsSpecification(id);
                 //   var products = await _productRepo.GetbyIdAsync(id);
             var products = await _productRepo.GetEntityWithSpec(spec);
+            if(products==null) return NotFound(new ApiResponse(404));
+
             return  _mapper.Map<Product,ProductToRerurnDto>(products);
             // return Ok(products);
         }

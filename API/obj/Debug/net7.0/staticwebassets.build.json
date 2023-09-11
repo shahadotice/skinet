@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cj24Z4VfjBm5737aTp8OciEjb/qzb07EgexNUTwTUps=",
+  "Hash": "/WQ/SGSEtjcTeEeuQIYaAom/XG+JG3zgLcDpyAWSGNU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -204,23 +204,6 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\._hat-core1.png"
     },
     {
-      "Identity": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-react1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\skinet\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/._hat-react1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._hat-react1.png"
-    },
-    {
       "Identity": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -338,6 +321,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\._sb-ts1.png"
+    },
+    {
+      "Identity": "E:\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/hat-react1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
+    },
+    {
+      "Identity": "E:\\skinet\\API\\wwwroot\\images\\products\\hat-react5.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\skinet\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/products/hat-react5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react5.png"
     }
   ]
 }

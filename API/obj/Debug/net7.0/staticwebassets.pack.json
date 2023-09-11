@@ -45,10 +45,6 @@
       "PackagePath": "staticwebassets\\images\\products\\._hat-core1.png"
     },
     {
-      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\._hat-react1.png"
-    },
-    {
       "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._hat-react2.png",
       "PackagePath": "staticwebassets\\images\\products\\._hat-react2.png"
     },
@@ -75,6 +71,14 @@
     {
       "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\._sb-ts1.png",
       "PackagePath": "staticwebassets\\images\\products\\._sb-ts1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "E:\\skinet\\API\\wwwroot\\images\\products\\hat-react5.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react5.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
